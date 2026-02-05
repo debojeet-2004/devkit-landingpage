@@ -1,0 +1,12 @@
+export { Navbar } from "./navbar";
+export { Hero } from "./hero";
+export { Problems } from "./problems";
+export { HowItWorks } from "./how-it-works";
+export { SupportedStack } from "./supported-stack";
+export { Features } from "./features";
+export { Comparison } from "./comparison";
+export { CTA } from "./cta";
+export { Footer } from "./footer";
+export { CLIDemo } from "./cli-demo";
+export { InteractiveStackDemo } from "./interactive-stack-demo";
+export { ScrollReveal, StaggerContainer, StaggerItem, Parallax } from "./scroll-reveal";
